@@ -8,3 +8,5 @@ Step1. Get data from http://hollywoodlife.com/ using WP API and request from url
 Step2. Save json data as the text file.
 
 Step3. Open the saved text file, read json data, extract fields and save extracted information into csv file.
+
+Also, I use BeautifulSoup to crawl webpage information. You can see the script as HollywoodLife_Page_Detail.py. 
