@@ -1,5 +1,6 @@
 # HollywoodLife_Data_Retrive
-In this project I  create python script that is able to get data from Hollywood Life using Wordpress API. This script will save downloaded data into csv file for analysis.
+
+In this project I  create python script (wordpress_Retriving_v1.py) that is able to get data from Hollywood Life using Wordpress API. This script will save downloaded data into csv file for analysis.
 
 The script will be doing the following steps:
 
